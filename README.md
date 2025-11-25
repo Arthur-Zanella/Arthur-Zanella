@@ -5,7 +5,7 @@ CS student at IFSP-SBV | Aspiring game dev | AI & data science enthusiast
 ## 💻 Some Tech I've Used
 `Java` `Python` `C` `JavaScript` `HTML/CSS` `Three.js` `WebGL` `Vite` `Node.js`
 
-**Want to Learn:** `C++`
+**Want to Learn:** `C++` `Go`
 
 **Game Engines:** `GameMaker` | Want to learn: `Unity` || `Godot` 
 
