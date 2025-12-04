@@ -1,4 +1,4 @@
-# Hi, I'm Arthur 😀
+# Hi, I'm Arthur 😃
 
 CS student at IFSP-SBV | Aspiring game dev | AI & data science enthusiast
 
